@@ -4,7 +4,7 @@ This is a simple and focused Sales Dashboard project designed to showcase key sa
 
 ## **Project Objective**
 
-\- Practice building a minimal, no-fluff dashboard that highlights only the most important sales metrics.  
+\- Practice building a minimal dashboard that highlights only the most important sales metrics.  
 \- Strengthen my skills in data visualization and storytelling.  
 \- Create something that’s easy to interpret for non-technical stakeholders.
 
